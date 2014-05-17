@@ -27,8 +27,8 @@ Leiden and Genesis Accessible together provide you with a WCAG 2.0 AA accessible
 
 - Install WordPress (http://codex.wordpress.org/Installing_WordPress) or download it in the version of your language.
 - Install the Genesis Framework version 2.0.1 or higher (http://my.studiopress.com/themes/genesis/)
-- If your site is in another language than English: install and activate the plugin Genesis Translations http://wordpress.org/plugins/genesis-translations/
-- Install and activate the Genesis child theme Leiden
+- If your site is in another language than English: install and activate the plugin Genesis Translations (http://wordpress.org/plugins/genesis-translations/)
+- Install and activate the Genesis child theme Leiden (https://github.com/RRWD/leiden)
 - Install and activate the plugin Genesis Accessible
 - Go in the Dashboard to Genesis → Accessibility Settings and select the options you want to add.
 - Go to the Dashboard to Genesis → Theme Settings and select Content Archives: Display post content and Limit content to the amount of characters you want (e.g. 500)
