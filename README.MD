@@ -52,9 +52,9 @@ Look for documentation on http://genesis-accessible.org
 Look for documentation on http://genesis-accessible.org
 
 
-== Changelog ==
+== Changelog
 
-= 1.1.1 =
+= 1.1.3 =
 
 Release date: August 25, 2014
 
@@ -62,6 +62,18 @@ Release date: August 25, 2014
 * Spanish translation by Andrew Kurtis, WebHostingHub
 * Added genesis-accessible.pot
 * Minor bugfixes
+
+= 1.1.2 =
+
+Release date: August 25, 2014
+
+* Typo's
+
+= 1.1.1 =
+
+Release date: August 25, 2014
+
+* Typo's
 
 = 1.1.0 =
 
