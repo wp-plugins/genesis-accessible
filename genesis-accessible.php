@@ -9,7 +9,7 @@
 * Plugin URI: http://genesis-accessible.org/
 * Description: This plugin implements the accessibility features for the Genesis Framework.
 * Author: Rian Rietveld
-* Version: 1.2.0
+* Version: 1.2.1
 * Author URI: http://www.rianrietveld.com/
 * License: GPLv2
 * Text Domain: genesis-accessible
@@ -173,10 +173,6 @@ function genwpacc_genesis_init() {
 
 	if ( genesis_get_option( 'genwpacc_skiplinks_css', 'genwpacc-settings' ) == 1 ) {
 		add_action( 'wp_enqueue_scripts', 'genwpacc_srt_css' );
-	}
-
-	if ( genesis_get_option( 'genwpacc_js', 'genwpacc-settings' ) == 1 ) {
-		add_action( 'wp_enqueue_scripts', 'genwpacc_js' );
 	}
 
 }
