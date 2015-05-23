@@ -1,0 +1,180 @@
+# Translation of Genesis Accessible in Hebrew
+# This file is distributed under the same license as the Genesis Accessible package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-05-04 13:11:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Genesis Accessible\n"
+
+#: admin/accessible-theme-settings.php:189
+msgid "These settings are for WordPress itself. If you have installed <a href=\"http://wordpress.org/plugins/wp-accessibility/\">WP Accessibility</a> by Joe Dolson too: don't worry you can use both plugins together."
+msgstr "ההגדרות הן עבור וורדפרס עצמה. אם התקנת גם את התוסף <a href=\"http://wordpress.org/plugins/wp-accessibility/\">WP Accessibility</a> של Joe Dolson, אין בעיה, שני התוספים יכולים לפעול יחדיו."
+
+#: admin/accessible-theme-settings.php:191
+msgid "Read more about WP Accessibility’s compatibility with Genesis Accessible in the online <a href=\"http://genesis-accessible.org/documentation/compatibility-wp-accessibility/\">Genesis Accessible Documentation</a>"
+msgstr "קרא עוד אודות תאימות  WP Accessibility עם Genesis Accessible ברשת <a href=\"http://genesis-accessible.org/documentation/compatibility-wp-accessibility/\">Genesis Accessible Documentation</a>"
+
+#: admin/accessible-theme-settings.php:129
+msgid "Add CSS for screen readers (screen-reader-text) and skiplinks"
+msgstr "הוסף CSS עבור תוכנות קוראות מסך (screen-reader-text) ועבור דילוג קישורים"
+
+#: admin/accessible-theme-settings.php:156
+msgid "Use an accessible 404 page"
+msgstr "השתמש בדף 404 נגיש"
+
+#: admin/accessible-theme-settings.php:162
+msgid "Use an accessible sitemap"
+msgstr "השתמש במפת אתר נגישה"
+
+#: admin/accessible-theme-settings.php:170
+msgid "Remove Genesis widgets"
+msgstr "הסר וידג'טים של ג'נסיס"
+
+#: includes/skip-links.php:25
+msgid "Skip to primary navigation"
+msgstr "דלג לתפריט הראשי"
+
+#: includes/skip-links.php:28
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: includes/skip-links.php:31
+msgid "Skip to primary sidebar"
+msgstr "דלג לתפריט הצד הראשי"
+
+#: includes/skip-links.php:35
+msgid "Skip to secondary sidebar"
+msgstr "דלג לתפריט הצד המשני"
+
+#: includes/skip-links.php:42
+msgid "Skip to footer"
+msgstr "דלג לפוטר"
+
+#: includes/wp-modification.php:16
+msgid "about "
+msgstr "אודות"
+
+#: admin/accessible-theme-settings.php:29
+#: admin/accessible-theme-settings.php:100
+msgid "Genesis - Accessibility Settings"
+msgstr "הגדרות נגישות ג'נסיס"
+
+#: admin/accessible-theme-settings.php:30
+msgid "Accessibility Settings"
+msgstr "הגדרות נגישות"
+
+#: admin/accessible-theme-settings.php:99
+msgid "Genesis - Accessibility Documentation"
+msgstr "ג'נסיס - תיעוד נגישות"
+
+#: admin/accessible-theme-settings.php:101
+msgid "WordPress - Accessibility Settings"
+msgstr "וורדפרס - הגדרות נגישות"
+
+#: admin/accessible-theme-settings.php:114
+msgid "These settings are for the Genesis framework only.<br />Together with the WordPress setting below, your theme can be a lot more accessible."
+msgstr "הגדרות אלה הינן עבור Genesis Framework בלבד.<br /> יחד עם הגדרות וורדפרס שמתחת, התמה שלך יכולה להיות נגישה הרבה יותר."
+
+#: admin/accessible-theme-settings.php:118
+msgid "Settings for Genesis:"
+msgstr "הגדרות עבור ג'נסיס"
+
+#: admin/accessible-theme-settings.php:208
+msgid "Remove title attribute from links"
+msgstr "הסר title attribute מקישורים"
+
+#: admin/accessible-theme-settings.php:123
+msgid "Add skiplinks"
+msgstr "הוסף דילוג קישורים"
+
+#: admin/accessible-theme-settings.php:135
+msgid "Use a semantic heading structure<br />(Note: Disable also \"Use semantic HTML5 page and section headings throughout site?\" in the Genesis SEO Settings)"
+msgstr "השתמש במבנה כותרות סמנטי <br /> (הערה: יש לכבות את ההגדרה \"השתמש במבנה כותרות סמנטי של HTML5 בדפים ומקטעים בכל האתר?\" במסך הגדרות ה SEO של ג'נסיס)"
+
+#: admin/accessible-theme-settings.php:141
+msgid "Add keyboard accessiblility to the dropdown menu<br />(only select this if you have a dropdown submenu in the main or sub navigation menu)"
+msgstr "הוסף נגישות מקלדת לתפריט נגלל. <br /> (בחר באפשרות זו רק כשיש לך תפריטי משנה בתפריט הראשי או המשני)"
+
+#: admin/accessible-theme-settings.php:150
+msgid "Remove less accessible Genesis widgets"
+msgstr "הסר וידג'טים של ג'נסיס שנגישים פחות"
+
+#: admin/accessible-theme-settings.php:195
+msgid "Settings for WordPress:"
+msgstr "הגדרות עבור וורדפרס:"
+
+#: admin/accessible-theme-settings.php:201
+msgid "Add the post title to the read more links"
+msgstr "הוסף כותרת פוסט עבור קישור \"קרא עוד\""
+
+#: admin/accessible-theme-settings.php:214
+msgid "Remove h1 from editor toolbar"
+msgstr "הסר את תגית h1 מסרגל העורך"
+
+#: admin/accessible-theme-settings.php:231
+msgid "For documentation, help and support please visit <a href=\"http://genesis-accessible.org/\">genesis-accessible.org</a>."
+msgstr "לתיעוד, עזרה ותמיכה אנא בקר ב  <a href=\"http://genesis-accessible.org/\">genesis-accessible.org</a>."
+
+#: genesis-accessible.php:87
+msgid "Whoa.. the Genesis Accessible plugin only works, really, when you have installed the %1$sGenesis Framework%2$s"
+msgstr "תוסף הנגישות עבור ג'נסיס עובד רק אחרי שהתקנת את %1$sGenesis Framework%2$s"
+
+#: genesis-accessible.php:96
+msgid "Uhm, the thing of it is, you kinda need the %1$sGenesis Framework %2$s%3$s or greater for these plugin to make any sense."
+msgstr "אתה כנראה צריך את %1$sGenesis Framework %2$s%3$s או גרסה מתקדמת יותר על מנת שתוסף זה יעבוד."
+
+#: includes/forms.php:30 includes/forms.php:43
+msgid "Search this website"
+msgstr "חיפוש באתר זה"
+
+#: includes/forms.php:32
+msgid "Search"
+msgstr "חיפוש"
+
+#: includes/headings.php:37 includes/skip-links.php:109
+msgid "Main navigation"
+msgstr "ניווט ראשי"
+
+#: includes/skip-links.php:63
+msgid "Skip links"
+msgstr "דלג קישורים"
+
+#: includes/wp-modification.php:16
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: templates/404.php:22
+msgid "Page not found"
+msgstr "עמוד לא נמצא"
+
+#: templates/404.php:25
+msgid "The page you are looking for no longer exists. Perhaps you can return back to the site's <a href=\"%s\">homepage</a> and see if you can find what you are looking for. Or, you can try finding it with the information below."
+msgstr "העמוד אותו אתה מחפש אינו קיים. יתכן כי תרצה לחזור ל  <a href=\"%s\">עמוד הבית</a> ולמצוא את מה שחיפשת. או, תוכל לנסות לחפש זאת במידע שמתחת."
+
+#: templates/404.php:31
+msgid "Sitemap"
+msgstr "מפת אתר"
+
+#: templates/404.php:33 templates/sitemap.php:27
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: templates/404.php:38 templates/sitemap.php:32
+msgid "Categories:"
+msgstr "קטגוריות:"
+
+#: templates/404.php:43 templates/sitemap.php:37
+msgid "Authors:"
+msgstr "כותבים:"
+
+#: templates/404.php:48 templates/sitemap.php:42
+msgid "Monthly:"
+msgstr "חודשי:"
+
+#: templates/404.php:53 templates/sitemap.php:47
+msgid "Recent Posts:"
+msgstr "פוסטים אחרונים:"
