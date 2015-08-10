@@ -4,8 +4,8 @@ Plugin website: http://genesis-accessible.org
 Donate link: http://genesis-accessible.org/donate/
 Tags: Genesis, Accessible, Accessibility, a11y, WCAG, WCAG 2.0 AA, Web Standards
 Requires at least: 3.8
-Tested up to: 4.2
-Stable tag: 1.2.2
+Tested up to: 4.3
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,13 @@ Look for [documentation on genesis-accessible.org](http://genesis-accessible.org
 
 
 == Changelog ==
+
+= 1.2.3 =
+
+Release date: August 10, 2015
+
+* Minor bugfixes, props @corvannoorloos
+* Removed address from TinyMCE options
 
 = 1.2.2 =
 

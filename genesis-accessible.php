@@ -9,7 +9,7 @@
 * Plugin URI: http://genesis-accessible.org/
 * Description: This plugin implements the accessibility features for the Genesis Framework.
 * Author: Rian Rietveld
-* Version: 1.2.2
+* Version: 1.2.3
 * Author URI: http://www.rianrietveld.com/
 * License: GPLv2
 * Text Domain: genesis-accessible
@@ -23,7 +23,7 @@
  * @since 1.0.0
  */
 
-define( 'GENWPACC_VERSION','1.2.2' );
+define( 'GENWPACC_VERSION','1.2.3' );
 
 if ( ! defined( 'GENWPACC_BASE_FILE' ) ) {
     define( 'GENWPACC_BASE_FILE', __FILE__ );
@@ -84,7 +84,7 @@ function genwpacc_activation_check() {
 
 		deactivate_plugins( plugin_basename( __FILE__ ) );  // Deactivate ourself
 
-		wp_die( sprintf( __( 'Whoa.. the Genesis Accessible plugin only works, really, when you have installed the %1$sGenesis Framework%2$s', GENWPACC_DOMAIN ), '<a href="http://www.shareasale.com/r.cfm?b=346198&u=629895&m=28169&urllink=&afftrack=">Genesis Framework</a>', '</a>' ) );
+		wp_die( sprintf( __( 'Whoa.. the Genesis Accessible plugin only works, really, when you have installed the %1$s.', GENWPACC_DOMAIN ), '<a href="http://www.shareasale.com/r.cfm?b=346198&u=629895&m=28169&urllink=&afftrack=">Genesis Framework</a>' ) );
 
 	}
 
@@ -93,7 +93,7 @@ function genwpacc_activation_check() {
 
         deactivate_plugins( plugin_basename( __FILE__ ) );  // Deactivate ourself
 
-		wp_die( sprintf( __( 'Uhm, the thing of it is, you kinda need the %1$sGenesis Framework %2$s%3$s or greater for these plugin to make any sense.', GENWPACC_DOMAIN ), '<a href="http://www.shareasale.com/r.cfm?b=346198&u=629895&m=28169&urllink=&afftrack=">Genesis Framework</a>', $latest, '</a>' ) );
+		wp_die( sprintf( __( 'Uhm, the thing of it is, you kinda need the %1$s %2$s or greater for this plugin to make any sense.', GENWPACC_DOMAIN ), '<a href="http://www.shareasale.com/r.cfm?b=346198&u=629895&m=28169&urllink=&afftrack=">Genesis Framework</a>', $minimum_genesis_version ) );
 
 	}
 
